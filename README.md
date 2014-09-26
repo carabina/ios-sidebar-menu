@@ -22,7 +22,9 @@ Objective-C
 This version of the solution uses a .xib file to layout the view hierarchy.  
 
 ####Code Usage Example
-Being a ViewController, simply drop the interface (.h), implementation (.m), and 'nib' file (.xib) into your solution.  Then proceed with the following steps:
+Being a ViewController, simply drop the interface (SidebarMenuViewController.h), implementation (SidebarMenuViewController.m), and 'nib' file (SidebarMenuViewController.xib) into your solution.  These three files can be found in the __SidebarCode__ folder/group in the provided Xcode project.
+
+Then proceed with the following steps:
 
 __Step #1__. In your AppDelegate implementation file (.m), import the SidebarMenuViewController.h interface file.
 
